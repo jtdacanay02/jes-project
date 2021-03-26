@@ -46,27 +46,27 @@ header{
 
 .nav-link-apple{
     width: 1.6rem;
-    background: url("/assets/img/apple.png") center no-repeat;
+    background: url("assets/img/apple.png") center no-repeat;
     background-size: 50%;
     height: 4.4rem;
 }
 
 .nav-link-search{
     width: 1.6rem;
-    background: url("/assets/img/search.png") center no-repeat;
+    background: url("assets/img/search.png") center no-repeat;
     background-size: 50%;
     height: 4.4rem;
 }
 
 .nav-link-bag{
     width: 1.6rem;
-    background: url("/assets/img/bag.png") center no-repeat;
+    background: url("assets/img/bag.png") center no-repeat;
     background-size: 50%;
     height: 4.4rem;
 }
 
 .iphone-12{
-    background:url("/assets/img/iphone12-large.jpg");
+    background:url("assets/img/iphone12-large.jpg");
     margin-top: 4.4rem;
 }
 
